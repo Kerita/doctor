@@ -1,0 +1,16 @@
+table tr{
+	text-align: center;
+}
+
+.star_gold{
+	background: url(../images/star_gold.png) no-repeat top center;
+}
+
+.star_sliver{
+	background: url(../images/star_sliver.png) no-repeat top center;
+}
+
+
+
+
+
